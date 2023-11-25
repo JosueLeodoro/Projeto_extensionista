@@ -1,4 +1,4 @@
-# Projeto_extensionista
+# Comedouro automático ARDUINO UNO
 Repositório para projeto extensionista da faculdade
 
 Neste projeto a principio deveria ser escrito na linguage Python porém no meio do periodo
